@@ -1,5 +1,4 @@
 # final_akinator
-# a group project for Introduction to Engineering course at AIU
 
 this is a guesser game written in Python3 (Pygame was used)
 
