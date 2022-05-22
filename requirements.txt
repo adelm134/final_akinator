@@ -1,5 +1,15 @@
-It's a sort of Akinator game. Pygame, time and sys are used, python 3.10.4.
-
-1) There is menu (start and exit buttons).
-2) Program should display questions on the screen by queue (after clicking on 'yes' or 'no')
-3) The output is either a name or a negative answer.
+backcall==0.2.0
+button==0.0.3.post3
+executing==0.8.3
+fonts==0.0.3
+pickleshare==0.7.5
+Pillow==9.1.0
+pure-eval==0.2.2
+pygame==2.1.2
+pygame-widgets==1.0.0
+pywin32==303
+pyzmq==22.3.0
+six==1.16.0
+tornado==6.1
+traitlets==5.1.1
+wcwidth==0.2.5
